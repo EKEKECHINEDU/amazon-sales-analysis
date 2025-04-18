@@ -46,7 +46,3 @@ This project analyzes an Amazon retail sales dataset to uncover trends in custom
 ## Dataset Source
 This dataset was obtained from Amazon's product listings and contains information on pricing, ratings, reviews, and categories.
 
----
-
-This project is a great starting point for retail data analysis and provides valuable insights into e-commerce trends.
-
